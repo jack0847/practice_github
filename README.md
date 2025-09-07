@@ -1,3 +1,2 @@
-# oss practice
-Hello Github!
-My name is Gyumin Lim!!!
+안녕하세요!!!!!!!!!!
+저는 조민입니다!!!!!!!!!
